@@ -1,4 +1,4 @@
-# CYCI-Leetcode-List
+# CTCI-Leetcode-List
 
 Table of contents(click to go to the chapter)
 Chapter 1: Arrays and Strings
